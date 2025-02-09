@@ -48,9 +48,17 @@ O sistema operacional combina o Kernel NT, núcleo do software, com várias APIs
   - Gerenciador de E/S(I/O Manager): Gerencia a comunicação entre os aplicativos e as interfaces fornecidas pelos drivers de dispositivo, é feita por meio de IRPs(pacotes de solicitação de E/S, entrada e saída), são passados do sistema operacional para drivers específicos e de um driver para outro.
   - Monitor de Referência de Segurança(SRM): O Windows usa uma ACL(lista de controle de acesso) para determinar quais objetos têm qual segurança e o monitor de referência de segurança  fornece rotinas para que o driver trabalhe com o controle de acesso. 
 ### Modo Usuário
+-
+  -
+  -
 ### Drivers e Camada de Abstração de Hardware(HAL)
 - Permite que o sistema operacional rode em diferentes arquiteturas sem precisar modificar diretamente o Kernel, esses drivers fazem a comunicação entre o sistema operacional e os dispositivos de hardware e o HAL, separa os detalhes de hardware de baixo nível dos drivers e do sistema operacional. 
-### Interface Gráfica e Shell
+### Interface Gráfica
+- A interface gráfica utilizada pelo sistema operacional é o Windows Shell, uma interface gráfica de usuário(GUI),
+  - Shell: É um recurso que permite que o usuário execute comandos, programas e serviços, como a Área de Trabalho, Barra de Tarefas e o Menu Iniciar.  
+  - Explorer.exe:
+  - Interface de Dispositivo Gráfico(GDI) e DirectX:
+  - Compositor de Janelas(DWM):
 ## Comandos e suas respectivas funções
 
 ## Curiosidades
