@@ -17,7 +17,7 @@ Criado em 1991 por **Linus Torvalds**, quando decidiu desenvolver um sistema mai
 #### Windows
 Criado pelos estudantes **Bill Gates** e **Paul Allen**, em um computador PDP-10 da Digital Equipment Corporation no ano de 1975, surgiu o **Windows**. Depois de um tempo, apareceu o *MS-MOD*, sua arquitetura mudou um pouco com as melhorias e a partir disso, suas vendas começaram a crescer muito, dando origem a novas versões que nós conhecemos hoje em dia, como o *Windows 10*. O Windows é um **sistema operacional proprietário**, onde o código não é aberto à modificação de todos.
 
-![Versões do Windows](https://extremehd.com.br/wp-content/uploads/2023/10/2023-10-10_23h35_02.png)
+![Versões do Windows](https://preview.redd.it/kdug5qc6qxx01.jpg?auto=webp&s=5b6f0a811e257f3b50cb4194e51e51f6711f8197)
 ## As 5 versões mais importantes do Windows
 - __Windows 10__
   - __Lançamento__: 29 de julho de 2015 
